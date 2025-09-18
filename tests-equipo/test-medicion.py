@@ -78,7 +78,7 @@ def main():
     # ---------------------------------------------------
     # Graficar resultados
     # ---------------------------------------------------
-    plt.figure(figsize=(18, 8))
+    plt.figure(figsize=(10, 6))
     plt.plot(tamanio_datos, tiempos, "o-", label="Datos empíricos")
     plt.plot(tamanio_datos, ajuste_lineal, "--", label="Ajuste O(n)")
     plt.plot(tamanio_datos, ajuste_nlogn, "--", label="Ajuste O(n log n)")
