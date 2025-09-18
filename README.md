@@ -1,5 +1,6 @@
 # TP1-TDA-2025-2C
-Repositorio del TP1 2025 2 Cuatrimetre Catedra Buchwald
+Repositorio del TP1 2025 2 Cuatrimetre Catedra Buchwald .
+
 Alumnos:
 - Federico Codino
 - Juan Ignacio Brugger
